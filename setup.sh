@@ -29,6 +29,3 @@ echo ">>> removing uv lock files"
 rm -f uv.lock
 
 echo -e "✅ Setup erfolgreich abgeschlossen!"
-
-
-SELECT * FROM gym_data LIMIT 1;
